@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xml:lang="en-US" version="1.0" root="dtmfAccountGrammar" tag-format="semantics/1.0" mode="dtmf">
+    <rule id="dtmf-account-grammar" scope="public">
+        <item repeat="16">
+            <ruleref uri="#digit"/>
+        </item>
+        <tag>val = val ? val + digit.val : digit.val;</tag>
+    </rule>
+
+    <rule id="digit">
+        <one-of>
+            <item>0
+                <tag>val = "0";</tag>
+            </item>
+            <item>1
+                <tag>val = "1";</tag>
+            </item>
+            <item>2
+                <tag>val = "2";</tag>
+            </item>
+            <item>3
+                <tag>val = "3";</tag>
+            </item>
+            <item>4
+                <tag>val = "4";</tag>
+            </item>
+            <item>5
+                <tag>val = "5";</tag>
+            </item>
+            <item>6
+                <tag>val = "6";</tag>
+            </item>
+            <item>7
+                <tag>val = "7";</tag>
+            </item>
+            <item>8
+                <tag>val = "8";</tag>
+            </item>
+            <item>9
+                <tag>val = "9";</tag>
+            </item>
+        </one-of>
+    </rule>
+</grammar>

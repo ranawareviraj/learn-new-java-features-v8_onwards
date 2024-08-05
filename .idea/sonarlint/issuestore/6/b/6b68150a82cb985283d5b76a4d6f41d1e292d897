@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³΄ΩαJ$c8a5aae2-ef8f-452b-8773-e81ba6597665
+“
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Έ‰θ8τιδ1J$5a34b4b3-abdb-4e2d-98ae-60755948ca10
+’
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ΟΖµΕ8τιδ1J$d80fb7ff-5960-45bd-9cac-74cbf299c4a3
+Θ
+java:S1130"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(‹­€8“τιδ1J$03e2c1f3-2727-4fd6-b68a-2bc16d43adb3
+Ό
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(‹­€8“τιδ1J$c92cfc87-1315-4cab-ac7f-009e6b05511d
+Ό
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(‹­€8”τιδ1J$51a6f66f-f3c7-463d-b22a-1b887e85fdbf
+k	java:S106"+Replace this use of System.out by a logger.(©µβ·ϊÿÿÿÿJ$4f8104bc-a4ce-4089-92fc-9e8588032112
+k	java:S106"+Replace this use of System.out by a logger.(νάΆΤώÿÿÿÿJ$766ccfd3-9e00-466b-b5c2-580adb54bbfc

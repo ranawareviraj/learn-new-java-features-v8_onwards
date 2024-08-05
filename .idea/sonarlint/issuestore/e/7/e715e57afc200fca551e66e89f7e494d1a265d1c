@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³´Ùá8çÇ†±ã1J$5c7fba26-21f8-4e30-b5a8-aaf659e133eb
+Ü
+java:S6548
+"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ý¾«‡8ëÇ†±ã1J$5d2195f5-4358-48d4-a25d-0467925074d5
+Š
+java:S1182 "HUse super.clone() to create and seed the cloned instance to be returned.(™”” 8îÇ†±ã1J$8f9c0d6c-0a44-46a2-aa84-470aec7e4971
